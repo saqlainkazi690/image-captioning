@@ -1,11 +1,7 @@
 <h1 align="center">Image Captioning</h1>
 <h4 align="center">Second lab of the Scalable Machine Learning course of the EIT Digital data science master at <a href="https://www.kth.se/en">KTH</a></h4>
 
-<p align="center">
-  <img alt="KTH" src="https://img.shields.io/badge/EIT%20Digital-KTH-%231954a6?style=flat-square" />  
-  <img alt="License" src="https://img.shields.io/github/license/angeligareta/image-captioning?style=flat-square" />
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/image-captioning?style=flat-square" />
-</p>
+
 
 ## Introduction
 This assignment aims to describe the content of an image by using CNNs and RNNs to build an Image Caption Generator. The model would be based on the paper [[4]](https://arxiv.org/pdf/1411.4555.pdf) and it will be implemented using Tensorflow and Keras. The dataset used is [Flickr 8K](https://www.kaggle.com/adityajn105/flickr8k), consisting of 8,000 images each one paired with five different captions to provide clear descriptions. 
