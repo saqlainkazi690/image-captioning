@@ -1,5 +1,5 @@
 <h1 align="center">Image Captioning</h1>
-<h4 align="center">Second lab of the Scalable Machine Learning course of the EIT Digital data science master at <a href="https://www.kth.se/en">KTH</a></h4>
+
 
 
 
