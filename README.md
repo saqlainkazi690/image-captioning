@@ -22,7 +22,3 @@ The following picture presents an example of a generated caption by the implemen
 ## Further work
 Despite the good results on the previous example, the Bilingual Evaluation Understudy (BLEU) Score for n-grams where n is greater than 2 is not very positive. As future work it would be interesting
 to study changes in the architecture from where to input the picture.
-
-## Authors
-- Serghei Socolovschi [serghei@kth.se](mailto:serghei@kth.se)
-- Angel Igareta [angel@igareta.com](mailto:angel@igareta.com)
